@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   - In transition from Medical Science to Computer Science
   - Open to learning - Exploration Stage
   - Computer Applications (Major) - Student at GDC, Anantnag
-  - Learner
+  - Avid Learner | Programmer
+  - Open Source Enthusiast
 
 - ### ⚡ Fun facts:
   > Heya fellow coders
