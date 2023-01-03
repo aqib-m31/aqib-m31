@@ -22,21 +22,17 @@ Here are some ideas to get you started:
 
 - ### ⚡ Fun facts:
   > Heya fellow coders
-  - I just know a bit of python.
-  - I love learning.
+  - I'm currently learning Java + DSA and exploring different technologies.
   - I love learning to code and I'm a curious about knowing how things work underneath the hood.
-  - I'm from Tral.
+  - I'm from Kashmir.
+  - Join our discord community to learn, help and share:
+  
+      [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mP8WuPVR2N)
 
-- ### 🤔 I’m looking for:
-  - Fellows who love to:
-    - Work in a team/group.
-    - Help others in their learning journey.
-  - Good mentors.
-  - Communities to learn new stuff.
+- ### 📫 Let's connect:
+    [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aqib_m31)
+    [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aqib_m31)
+    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aqibm31)
 
-- ### 📫 How to reach me:
-    > [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aqib_m31)
-
-    > [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aqib_m31)
-> If anyone wants to build projects in groups and ain't finding a fellow learner - I'm here.
-##### Peace Out :white_heart:	
+- ### 📊 GitHub Stats:
+    ![](https://github-readme-stats.vercel.app/api?username=aqib-m31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
