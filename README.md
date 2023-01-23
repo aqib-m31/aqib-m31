@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   - Open Source Enthusiast
 
 - ### ⚡ Fun facts:
-  > Heya fellow coders
+  > Heya fellows!
   - I'm currently learning Java + DSA and exploring different technologies.
-  - I love learning to code and I'm a curious about knowing how things work underneath the hood.
-  - I'm from Kashmir.
+  - I love learning new technologies and I'm a curious about knowing how things work underneath the hood.
+  - I love getting involved in global communities and expanding my network.
   - Join our discord community to learn, help and share:
   
       [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mP8WuPVR2N)
