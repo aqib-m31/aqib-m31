@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - ### ⚡ Fun facts:
   > Heya fellows!
-  - I'm currently learning Java + DSA and exploring different technologies.
+  - I'm currently exploring different technologies.
   - I love learning new technologies and I'm a curious about knowing how things work underneath the hood.
   - I love getting involved in global communities and expanding my network.
   - Join our discord community to learn, help and share:
