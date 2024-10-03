@@ -11,31 +11,31 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                  .                 </tspan>
-<tspan x="15" y="50">           .,-\jrrvutt1I^.          </tspan>
-<tspan x="15" y="70">         `1z*MM#*zuvvzunrv(^        </tspan>
-<tspan x="15" y="90">       ^1*##z*rf({}_~~!,I+?j[.      </tspan>
-<tspan x="15" y="110">     '}zuvu(&gt;:^^''........`l{:'     </tspan>
-<tspan x="15" y="130">    ^vu/\?:`..             .';;'    </tspan>
-<tspan x="15" y="150">   ^c*r/I`....               'ii.   </tspan>
-<tspan x="15" y="170">  .x&amp;*t&gt;`....                .&quot;i^   </tspan>
-<tspan x="15" y="190">  '#&amp;*},`........       ...  .,+]'  </tspan>
-<tspan x="15" y="210">  'W&amp;zj!^`!~})))&gt;&quot;'''^,~(({~;^:]\`  </tspan>
-<tspan x="15" y="230">  'W8Mv!]\|[?junxf^.'&gt;|tj{:``,!x|`  </tspan>
-<tspan x="15" y="250">  .#8&amp;f&quot;?)\xWcxzzI   `}r/cj~;``/+.  </tspan>
-<tspan x="15" y="270">   (8W;'&quot;i(t1+;&quot;'.    ..`&quot;&quot;`...[;.  </tspan>
-<tspan x="15" y="290">  `!\f`....... ...             '`.  </tspan>
-<tspan x="15" y="310">  ;({1^`'.    ...``...        ..^.  </tspan>
-<tspan x="15" y="330">  .:lx&gt;^``'....^1r|;_\:........`.   </tspan>
-<tspan x="15" y="350">   .',x&gt;,```..'&quot;rcrt|]&quot;'...''''^.   </tspan>
-<tspan x="15" y="370">     'jt+l;&quot;^l)\}1]ll~i!}I``^,+&lt;.   </tspan>
-<tspan x="15" y="390">      izjt1&lt;)jf\~&quot;''.'`;?{!^,}j&quot;    </tspan>
-<tspan x="15" y="410">      'z*zx(f{I;-1}_+&lt;&quot;`',l;}nf.    </tspan>
-<tspan x="15" y="430">       ;W&amp;Mxnt~&gt;[|1)]l&quot;``;[/uzI     </tspan>
-<tspan x="15" y="450">        {&amp;Mzx/l`^&quot;`'''..`!fuz?      </tspan>
-<tspan x="15" y="470">        'n#*zv\]+_+!li;~-1tn!       </tspan>
-<tspan x="15" y="490">       .+|/v**#cnux|frrvzn{:.       </tspan>
-<tspan x="15" y="510">      .:#tfrucz*z**cuuj|}:`&lt; .       </tspan>
+<tspan x="15" y="30">          .-+####%%##*=-.         </tspan>
+<tspan x="15" y="50">        :*%%%@%%%%%%%%%#%*-       </tspan>
+<tspan x="15" y="70">      -*%%%%%##***+++=-=+*#*.     </tspan>
+<tspan x="15" y="90">    :*%%%%*+=::....     .:=*=.    </tspan>
+<tspan x="15" y="110">   -%%##+=:.               .==:   </tspan>
+<tspan x="15" y="130">  -%%##=:..                 .++.  </tspan>
+<tspan x="15" y="150">  #@%#+:..                  .-+-  </tspan>
+<tspan x="15" y="170"> .%@%*-:..                  .-+*. </tspan>
+<tspan x="15" y="190"> :@@%#=-:=+****+-:.::=+***+=:=*#: </tspan>
+<tspan x="15" y="210"> :@@%%=*##**#%%##- :+*##*=::-=##: </tspan>
+<tspan x="15" y="230">  %@@#-**##@%%%%=   :*##%#+=::#+. </tspan>
+<tspan x="15" y="250">  *@@=:-+*#*+=-.      .:--:.  *=. </tspan>
+<tspan x="15" y="270"> :=##:.  ..   ..              .:  </tspan>
+<tspan x="15" y="290"> =***-:..     ..::.           .:. </tspan>
+<tspan x="15" y="310"> .==#+-::.....-*##=+#=  ..   .:   </tspan>
+<tspan x="15" y="330">   :-%+-:::. .-#%###*-.  .:...:.  </tspan>
+<tspan x="15" y="350">    :##+==-:=*#***==++=*=::-=++   </tspan>
+<tspan x="15" y="370">     +%##*+*###+-....:=+*=-=*#-   </tspan>
+<tspan x="15" y="390">     .%%%%*#*==+**+++-::===*%#.   </tspan>
+<tspan x="15" y="410">      =@@%#%#++*#***=-::=*#%%=    </tspan>
+<tspan x="15" y="430">       *@@%##=::-::....:=#%%+     </tspan>
+<tspan x="15" y="450">       .%%%%%#*+++==+=++*#%=      </tspan>
+<tspan x="15" y="470">       +##%%%%%%%#*###%%%*=.      </tspan>
+<tspan x="15" y="490">     .=%###%%%%%%%%%%##*=:+       </tspan>
+<tspan x="15" y="510">      :*##%%%####*+++=--::-       </tspan>
 </text>
 
 <text x="370" y="30" fill="#24292f">
@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 9 months, 10 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">SHMM Govt. Degree College Anantnag</tspan><tspan class="commentColor"> #SHMM GDC-ANG</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Applications</tspan><tspan class="commentColor"> #CA</tspan>
+<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan><tspan class="commentColor"> #CS</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VS Code 1.89.^</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, JavaScript, C/C++</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, Markdown</tspan>
