@@ -290,7 +290,10 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for edge in data or []:
+        repo = edge.get('node') if edge else None
+        if repo and repo.get('stargazers'):
+            total_stars += repo['stargazers']['totalCount']
     return total_stars
 
 
